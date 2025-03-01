@@ -1,4 +1,3 @@
-# pre-ordering-app
 # Pre-Ordering App (Frontend)
 
 This repository contains the frontend part of the **Pre-Ordering App**, a cross-platform application built with **React Native** and **Expo CLI**. The project allows users to pre-order food from cafés and restaurants, while providing restaurants with tools to manage their menus and orders.
